@@ -78,6 +78,7 @@ module Pod
 
       `mv ./templates/ios/* ./`
       `mv ./templates/ios/README2.md ./`
+      `mv ./templates/ios/README3.md ./`
 
       # remove podspec for osx
       `rm ./NAME-osx.podspec`
